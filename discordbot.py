@@ -195,5 +195,5 @@ Mentaukoさんの部下に当たります！よろしくお願いします！(*�
 #    if message.content.startswith('めんた'):
 #       await message.channel.send('Hello!')
 
-client.run('NjE2MzAwOTMxMDA4NjkyMjM0.XWamDA.f_ydLnQ8h9E6FBzZFt8ltX8v10I')
+client.run('NjE2MzAwOTMxMDA4NjkyMjM0.XW8wkQ.87a0GdSRUATaiYGGmW7kKkY8Mio')
 
